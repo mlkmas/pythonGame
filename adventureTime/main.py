@@ -323,7 +323,11 @@ def main(window):
             offsetX+=player.xVel
     pygame.quit()
     quit()
-
+"""
+git add .
+git commit -m "Commit message"
+git push origin main
+"""
 
 if __name__ == "__main__":
     main(window)
